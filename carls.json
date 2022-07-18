@@ -1,0 +1,92 @@
+{
+    "Toyota-Camry-2013": {
+        "mileage": "85364 kms",
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "price_per_day": 240,
+        "availability": true,
+        "description": "The E-CVT electronically controlled continuously variable transmission system provides a smooth and stable power output and significantly reduces unnecessary energy consumption.",
+        "image": "images\\Toyota-Camry-2013.jpeg"
+    },
+    "Nissan-X-trail-2015": {
+        "mileage": "36782 kms",
+        "fuel_type": "Petrol",
+        "seats": 7,
+        "price_per_day": 360,
+        "availability": true,
+        "description": "Integrating handling safety, active safety and passive safety, the chassis control system integrates the transmission, engine torque, brake force distribution and steering angle to actively sense road conditions, allowing the driver to effectively manage road conditions and reduce driving risks.",
+        "image": "images\\Nissan-X-trail-2015.jpeg"
+    },
+    "Volkswagen-Golf-2017": {
+        "mileage": "13586 kms",
+        "fuel_type": "CNG",
+        "seats": 5,
+        "price_per_day": 180,
+        "availability": true,
+        "description": "The combination of direct injection and turbocharging technology, lightweight engine components, minimal drag and physical inertia, and the energy-efficient DSG dual-clutch manual transmission system not only combines fuel efficiency and environmental friendliness, but also reduces the burden of fuel consumption and taxation on the consumer.",
+        "image": "images\\Volkswagen-Golf-2017.jpeg"
+    },
+    "Honda-Civic-2018": {
+        "mileage": "9586 kms",
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "price_per_day": 220,
+        "availability": true,
+        "description": "The driving mode system is integrated with Comfort, Sport and Race+R modes, which automatically adjusts the suspension damping, throttle sensitivity and steering assist feedback according to the driver's selected driving mode.",
+        "image": "images\\Honda-Civic-2018.jpeg"
+    },
+    "Chevrolet-Captiva-2017": {
+        "mileage": "5574 kms",
+        "fuel_type": "Petrol",
+        "seats": 7,
+        "price_per_day": 220,
+        "availability": true,
+        "description": "The Captiva is equipped with ESC electronic stability control, TCS traction control and BAS brake assist as standard, as well as a number of airbags for the dual front seats, front seat sides and side air curtains, providing the Captiva with intensive safety protection.",
+        "image": "images\\Chevrolet-Captiva-2017.jpeg"
+    },
+    "Suzuki-Jimny-2019": {
+        "mileage": "4557 kms",
+        "fuel_type": "Petrol",
+        "seats": 4,
+        "price_per_day": 200,
+        "availability": true,
+        "description": "The horizontal centre console assists the driver in judging the angle of the vehicle on rough and bumpy roads, and when more boot space is needed, the fold-down seats can be adjusted to suit the needs of the camper.",
+        "image": "images\\Suzuki-Jimny-2019.jpeg"
+    },
+    "BMW-320i-2013": {
+        "mileage": "2783 kms",
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "price_per_day": 400,
+        "availability": true,
+        "description": "To meet the needs of different journeys and personal preferences, the driver can choose between COMFORT, SPORT, SPORT+ or ECO PRO modes via the dynamic driving mode switch in the centre saddle to enjoy the handling experience with different levels of engine response, suspension and DSC dynamic stability intervention.",
+        "image": "images\\BMW-320i-2013.jpeg"
+    },
+    "Benz-GLC-2015": {
+        "mileage": "3498 kms",
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "price_per_day": 450,
+        "availability": false,
+        "description": "The 4ETS 4-wheel electronic traction control system uses the braking system to simulate the locking function of a conventional differential, allowing the engine power to be spread evenly over the other gripping wheels in the event of a skid, so that the vehicle can be released in the most stable condition.",
+        "image": "images\\Benz-GLC-2015.jpeg"
+    },
+    "Jeep-Cherokee-2020": {
+        "mileage": "1290 kms",
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "price_per_day": 350,
+        "availability": false,
+        "description": "The chassis features a Quadra-DriveII four-wheel drive system that delivers 100% of the engine's torque to any wheel in an instant, and with the 48TC front and rear electronic anti-slip system, NV245 booster box and electronically controlled central clutch, the off-road capabilities are certainly up to scratch!",
+        "image": "images\\Jeep-Cherokee-2020.jpeg"
+    },
+    "Hyundai-Sonata-2016": {
+        "mileage": "2477 kms",
+        "fuel_type": "Hybrid",
+        "seats": 5,
+        "price_per_day": 280,
+        "availability": false,
+        "description": "The Sonata is equipped with the IDMS integrated driving mode system, which is comparable to the technology of European luxury brands.",
+        "image": "images\\Hyundai-Sonata-2020.jpeg"
+    }
+}
